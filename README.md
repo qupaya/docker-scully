@@ -8,6 +8,8 @@
 
 Docker image to build [Scully](https://scully.io/) apps. Includes the [Netlify CLI](https://www.npmjs.com/package/netlify-cli) to enable deployment from within a CI/CD pipeline.
 
+Fixes some issues with puppeteer, as described in https://github.com/scullyio/scully/issues/924 and the [scully docker FAQs](https://scully.io/docs/faq/).
+
 
 ---
 
